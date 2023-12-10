@@ -1,0 +1,26 @@
+---------Select What You Want To Explore From Given Menu---------
+Enter 1 For     -----DemonStration_Of_Struct-----
+Enter 2 For     -----Store & Retrieval Elements Of Array-----
+Enter 3 For     -----DemonStration Of Arithmatic Operators-----
+Case :-1
+Age = 18
+M_No = 0 
+
+Case:-2
+Enter How many Elements You Want to Store In Array
+3
+10
+20
+13
+0 No Element's Value:-10
+1 No Element's Value:-20
+2 No Element's Value:-13
+
+Case:-3
+N1 + N2 = 13
+N1 - N2 = 7
+N1 * N2 = 30
+N1 / N2 = 3
+N1 % N2 = 1
+-N1 = -10
+-N2 = -3   
